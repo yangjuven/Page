@@ -1,12 +1,12 @@
 Page
 ====
-Page is a minimal and responsive theme for [Octopress](http://octopress.org).
+Page is a simple and responsive theme for [Octopress](http://octopress.org).
 
 
 Install
 -------
     $ cd octopress
-    $ git clone git://github.com/yangjuven/page.git .themes/Page
+    $ git clone git://github.com/yangjuven/Page.git .themes/Page
     $ rake install['Page']
     $ rake generate
 
